@@ -1,6 +1,8 @@
 # Catch the Balls Game
 
 ![Catch the Balls]() 
+<img width="1280" height="832" alt="Screenshot 2025-11-27 at 4 00 04 PM" src="https://github.com/user-attachments/assets/68273c4b-bf68-4f13-b452-d5bf61706d9c" />
+<img width="563" height="452" alt="Screenshot 2025-11-27 at 4 00 27 PM" src="https://github.com/user-attachments/assets/96d4257f-69c8-4595-9c0c-cba63326d1ae" />
 <img width="1280" height="804" alt="Screenshot 2025-11-27 at 4 00 40 PM" src="https://github.com/user-attachments/assets/234e5627-3097-422e-b6d3-458ec6fb4618" />
 
 ## Purpose of the Project
